@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1068892206973983421
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1068892206973983423}
+  - component: {fileID: 1068892206973983422}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1068892206973983423
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1068892206973983421}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1068892206973983422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1068892206973983421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f19b5f9dcd686420ba9e0db1494f48ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Background
+    clip: {fileID: 8300000, guid: 97a465efc4fdf46a3a7c447beb9cb0a8, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Open Can
+    clip: {fileID: 8300000, guid: b7eececfaf4c74404862c32e51dd45aa, type: 3}
+    volume: 0.6
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Power Up
+    clip: {fileID: 8300000, guid: b863326445d244610916a833d92c776d, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: BabyNoise_1
+    clip: {fileID: 8300000, guid: 3c5f1b78490f5c244b2bb26caa1503e7, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: BabyNoise_2
+    clip: {fileID: 8300000, guid: b4322bb0e31d46c40b0ed5f9b08b8958, type: 3}
+    volume: 0.25
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Realization
+    clip: {fileID: 8300000, guid: 926db0adbbc049f4e8ab59bc77c3e998, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Footstep
+    clip: {fileID: 8300000, guid: 4a58e01114463b74ea2d0f73674e5b2a, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Checkpoint
+    clip: {fileID: 8300000, guid: 9e71c3b2e3bd0574cbea092d8dd78077, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Raccoon
+    clip: {fileID: 8300000, guid: f764c6575d3959646aac2c57df1eae9b, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Birds
+    clip: {fileID: 8300000, guid: 95805a55ddce7d54199a24ba18afa2ba, type: 3}
+    volume: 0.4
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: Thud
+    clip: {fileID: 8300000, guid: 19ba876035fccca4da618b0a1be346a5, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  backgroundMusic:
+  - name: Peckin
+    clip: {fileID: 8300000, guid: 8e2c6a4ebd49c8e4680ef7abcae22ee0, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Madhouse
+    clip: {fileID: 8300000, guid: 3527af401b9ea6848aadaa2d3da73798, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Muskrat Ramble
+    clip: {fileID: 8300000, guid: 76efc79baf9829e48a4ec31f6975b017, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Alexander's Ragtime Band
+    clip: {fileID: 8300000, guid: adf1c8d38230026488ed04febc974863, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Sing Sing Sing
+    clip: {fileID: 8300000, guid: 576ef6b2a2158a743add72d73d83da68, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Struttin' With Some Barbeque
+    clip: {fileID: 8300000, guid: dd171d630945cad41b680c840449d063, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: That Rhythm Man
+    clip: {fileID: 8300000, guid: a94c6be991103534b9b6902dba56b9f4, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Swing 39
+    clip: {fileID: 8300000, guid: 4e6004f080745ee4790e36d556a6b48c, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Goin' to Town
+    clip: {fileID: 8300000, guid: 2503e9a9d75c6004cb482ff10d5cc86e, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Misty Mornin'
+    clip: {fileID: 8300000, guid: 093198000da48484892ae8ce5fd6a550, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Minor Swing
+    clip: {fileID: 8300000, guid: c997632b685114e46b4355d7e178f81a, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Swinging with Django
+    clip: {fileID: 8300000, guid: 286f2dfefd863594e838908457576c8f, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: The Mooche
+    clip: {fileID: 8300000, guid: 890fcc03cf25f894e84882f2c84bdacd, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Hot Feet
+    clip: {fileID: 8300000, guid: cdb01d1a4c48b5145bb5b3272d8bd1f4, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}

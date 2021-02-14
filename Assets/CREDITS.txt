@@ -1,0 +1,87 @@
+Mission O-Possumble credits.txt
+
+Sprite outline
+https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/outline-effect-78608
+
+Garbage can open audio
+https://opengameart.org/content/wood-and-metal-sound-effects-volume-2
+
+Power Up appear audio
+https://opengameart.org/content/pleasing-bell-sound-effect
+
+Power Up sprite
+https://opengameart.org/content/recycle-items-set
+Recycle items art by Clint Bellanger
+
+Timer moon and sun
+https://opengameart.org/content/moon-stars-sun
+
+Timer ui sprite
+https://www.youtube.com/watch?v=zfOo4v6DPmI
+
+Speech bubbles
+https://unitycodemonkey.com/video.php?v=K13WnNL1OYM
+
+Heart and health/stamina bar border sprites from Brackeys. 
+https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA 
+Bars based on Brackeys's tutorial
+https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=362s
+
+Ground texture
+https://assetstore.unity.com/packages/2d/textures-materials/floors/tileable-pack-01-49278
+
+Wall texture
+https://www.pinterest.com/pin/817614507336279551/
+
+Baby sounds
+https://freesound.org/people/LittleRainySeasons/sounds/395540/
+
+Realization sound
+https://opengameart.org/content/realization
+
+Footstep sound
+https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud
+
+Checkpoint sound
+https://opengameart.org/content/level-up-power-up-coin-get-13-sounds
+
+Raccoon sound
+https://www.freesoundeffects.com/free-sounds/racoon-10051/
+
+Bird sounds
+https://opengameart.org/content/ambient-bird-sounds
+
+Loading icon
+https://assetstore.unity.com/packages/2d/gui/icons/animated-loading-icons-47844
+
+Play Dead sound
+https://opengameart.org/content/thwack-sounds
+
+Applause sound
+https://www.freesoundeffects.com/free-track/claps3-426833/
+
+Menu music
+In the Mood - Glenn Miller
+
+Background music: 
+Peckin' - Benny Goodman
+Madhouse - Benny Goodman
+Muskrat Ramble - Benny Goodman
+Alexander's Ragtime Band - Benny Goodman
+Sing Sing Sing - Benny Goodman
+Minor Swing - Django Reinhardt
+Swing 39 - Django Reinhardt
+Swinging with Django - Django Reinhardt
+Hot Feet - Duke Ellington
+The Mooche - Duke Ellington
+Goin' to Town - Duke Ellington
+Misty Mornin' - Duke Ellington
+That Rhythm Man - Louis Armstrong
+Struttin' with Some Barbeque - Louis Armstrong
+
+All music is public domain and obtained from http://www.jazz-on-line.com/
+
+Freelance:
+Music - David Hansen
+Voiceover - Shaka Raheem
+Art - Mike Stowe

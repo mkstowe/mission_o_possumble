@@ -1,0 +1,1 @@
+Based on the feedback from milestone 1, we aimed to create a more challenging level layout for players as the previous level was too simple. Additionally, we added a timer and new type of enemy to add more difficulty to the game. Finally, we added the objective of collecting babies to give our opossum more personality!

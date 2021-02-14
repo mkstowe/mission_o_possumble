@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  - Waypoint
+  - GarbageCan
+  - Enemy
+  - Baby
+  - Building
+  - UI
+  - AlleyEntrance
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Human
+  - Ground
+  - Raccoon
+  - Baby
+  - AlleyEntrance
+  - Wall
+  - Can
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1662742485
+    locked: 0
+  - name: Walls
+    uniqueID: 1236260149
+    locked: 0
+  - name: Player
+    uniqueID: 1179713933
+    locked: 0
+  - name: Enemy
+    uniqueID: 2403538633
+    locked: 0
+  - name: Objects
+    uniqueID: 2531119939
+    locked: 0
+  - name: Top
+    uniqueID: 3205946383
+    locked: 0

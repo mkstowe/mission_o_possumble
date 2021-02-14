@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 92c4f9592bdc9a74b9e0da37402ffab1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mostra Nuova
+  fontNames:
+  - Mostra Nuova
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 90210714e69dee94ba41b3b76b50ba86, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
